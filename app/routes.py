@@ -18,5 +18,6 @@ def read_current_user():
     return User (
         id = 1,
         email = "erikestrella73@gmail.com",
+        full_name = "Erik Estrella Ojeda"
         is_active = True
         )
